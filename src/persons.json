@@ -9,12 +9,14 @@
         "Title": "The Hitchhiker’s Guide to the Galaxy",
         "Author": "Douglas Adams",
         "Quote": "If you can properly phrase the question, then the answer is the easy part. So, to the degree that we can better understand the universe, then we can better know what questions to ask",
-        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/513chCN-jmL._SX347_BO1,204,203,200_.jpg"
+        "BookLink": "https://www.amazon.com/gp/product/0345453743/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0345453743&linkId=e1edc2cce3ffd4088bee1fb4b35ab0bd",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/514lGrZn9TL._SX330_BO1,204,203,200_.jpg"
       },
       "Book2": {
         "Title": "Zero to One",
         "Author": "Peter Thiel",
         "Quote": "Peter Thiel has built multiple breakthrough companies, and Zero to One shows how.",
+        "BookLink": "https://www.amazon.com/gp/product/0753555204/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0753555204&linkId=5abf3645ccdae587f507ef63e209b973",
         "BookCover": "https://images-na.ssl-images-amazon.com/images/I/412hq8iLwKL._SX317_BO1,204,203,200_.jpg"
       }
     }
@@ -23,103 +25,185 @@
   {
     "Name": "Richard Branson",
     "Born": "1950-07-18",
-    "Picture": "richardbranson.jpg"
+    "Picture": "richardbranson.jpg",
+    "Description": "Entrepreneur Richard Branson launched Virgin Records in 1973. Today Virgin Group holds more than 200 companies in more than 30 countries.",
+    "Books": {
+      "Book1": {
+        "Title": "Long Walk to Freedom",
+        "Author": "Nelson Mandela",
+        "Quote": "A major inspiration",
+        "BookLink": "https://www.amazon.com/gp/product/0316548189/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0316548189&linkId=692a05671f67940886b390c948f0c06c",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51DVbVOCedL._SX318_BO1,204,203,200_.jpg"
+      },
+      "Book2": {
+        "Title": "Mao: The Unknown Story",
+        "Author": "Jung Chang",
+        "Quote": "A brilliant biography that smashes all of the myths that this terrible man built around himself.",
+        "BookLink": "https://www.amazon.com/gp/product/0679746323/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0679746323&linkId=8e94c4a6de271d4ce081d0642117c83f",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/519FQVMBXNL._SX329_BO1,204,203,200_.jpg"
+      }
+    }
   },
 
   {
     "Name": "Bill Gates",
     "Born": "1955-10-28",
-    "Picture": "billgates.jpg"
+    "Picture": "billgates.jpg",
+    "Description": "Entrepreneur Bill Gates founded the world's largest software business, Microsoft, with Paul Allen, and subsequently became one of the richest men in the world.",
+    "Books": {
+      "Book1": {
+        "Title": "Better Angels of Our Nature",
+        "Author": "Steven Pinker",
+        "Quote": "It's one of the most important books I've ever read.",
+        "BookLink": "https://www.amazon.com/gp/product/0143122010/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143122010&linkId=572aee6745c5d231e2ead0abad3b7330",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/519B0TlUFuL._SX332_BO1,204,203,200_.jpg"
+      },
+      "Book2": {
+        "Title": "My Years With General Motors",
+        "Author": "Alfred Sloan",
+        "Quote": "This is probably the best book to read if you want to read only one book about business.",
+        "BookLink": "https://www.amazon.com/gp/product/0385042353/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0385042353&linkId=7bbe33f3303c3c610ee45855c9c0f21d",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/61miUZ2G9XL._SX329_BO1,204,203,200_.jpg"
+      }
+    }
   },
 
   {
     "Name": "Donald Trump",
     "Born": "1946-06-14",
-    "Picture": "donaldtrump.jpg"
+    "Picture": "donaldtrump.jpg",
+    "Description": "Billionaire real estate mogul and former reality television personality Donald Trump is the 45th president of the United States.",
+    "Books": {
+      "Book1": {
+        "Title": "The Amateur",
+        "Author": "Edward Klein",
+        "Quote": "The Amateur is the best book I've read on how Barack Obama is wrecking our country. I urge everyone who cares about America to read Edward Klein's eye-opening book.",
+        "BookLink": "https://www.amazon.com/gp/product/1596987855/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1596987855&linkId=97b0b869d27243f75571193ed26ecc78",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/41wk5Etcz6L._SX330_BO1,204,203,200_.jpg"
+      },
+      "Book2": {
+        "Title": "Talent is Overrated",
+        "Author": "Geoff Colvin",
+        "Quote": "Geoff Colvin has written a fascinating study of great achievers from Mozart to Tiger Woods, and he was brilliantly highlighted the fact that great effort equals great success.",
+        "BookLink": "https://www.amazon.com/gp/product/1591842948/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1591842948&linkId=b69d3486817211348d06908f77c4c85a",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51KAZ3TmhjL._SX324_BO1,204,203,200_.jpg"
+      }
+    }
   },
 
   {
     "Name": "Oprah Winfrey",
     "Born": "1954-01-29",
-    "Picture": "oprahwinfrey.jpg"
+    "Picture": "oprahwinfrey.jpg",
+    "Description": "Billionaire Oprah Winfrey is best known for hosting her own internationally popular talk show from 1986 to 2011. She is also an actress, philanthropist, publisher and producer.",
+    "Books": {
+      "Book1": {
+        "Title": "A Return To Love",
+        "Author": "Marianne Williamson",
+        "Quote": "This book helped me realize that there are only two emotions, love and fear. In every relationship, you're always moving toward one or the other.",
+        "BookLink": "https://www.amazon.com/gp/product/0060927488/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0060927488&linkId=d155ed5b012c72aaf26d49553434fd73",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/41clQ1Mp4WL._SX330_BO1,204,203,200_.jpg"
+      },
+      "Book2": {
+        "Title": "The Four Agreements",
+        "Author": "Don Miguel Ruiz",
+        "Quote": "This book by don Miguel Ruiz, simple yet so powerful, has made a tremendous difference in how I think and act in every encounter",
+        "BookLink": "https://www.amazon.com/gp/product/1878424319/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1878424319&linkId=dad6d95f7bf3e485d62eb693cee687df",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51MfVDOlEkL._SX338_BO1,204,203,200_.jpg"
+      }
+    }
   },
 
   {
     "Name": "Ellen DeGeneres",
     "Born": "1958-01-26",
-    "Picture": "ellendegeneres.jpg"
+    "Picture": "ellendegeneres.jpg",
+    "Description": "With her own talk show, Ellen DeGeneres is one of America's most well-known comedians, also serving as a prominent gay/lesbian role model.",
+    "Books": {
+      "Book1": {
+        "Title": "The Goldfinch",
+        "Author": "Donna Tartt",
+        "Quote": "Love her writing. Can't put it down.",
+        "BookLink": "https://www.amazon.com/gp/product/0316055441/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0316055441&linkId=39257aff8cc423610ee77a8c82106e32",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/41p4amaYISL._SX317_BO1,204,203,200_.jpg"
+      },
+      "Book2": {
+        "Title": "The Four Agreements",
+        "Author": "Don Miguel Ruiz",
+        "Quote": "A great book that everyone should read.",
+        "BookLink": "https://www.amazon.com/gp/product/1878424319/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1878424319&linkId=dad6d95f7bf3e485d62eb693cee687df",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51MfVDOlEkL._SX338_BO1,204,203,200_.jpg"
+      }
+    }
   },
 
   {
     "Name": "Johny Depp",
     "Born": "1963-06-09",
-    "Picture": "johnydepp.jpg"
+    "Picture": "johnydepp.jpg",
+    "Description": "Johnny Depp is an actor known for his portrayal of eccentric characters in films including ‘Ed Wood,' ‘Sleepy Hollow,' ‘Charlie and the Chocolate Factory,’ and his role as Captain Jack Sparrow in the ‘Pirates of the Caribbean’ series.",
+    "Books": {
+      "Book1": {
+        "Title": "Fear and Loathing in Las Vegas",
+        "Author": "Hunter S. Thompson",
+        "Quote": "A must for anyone and everyone... especially anyone in need of a serious excursion from their four walls.",
+        "BookLink": "https://www.amazon.com/gp/product/0679785892/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0679785892&linkId=236ff89abf41c574763f227708805c7a",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51BwDija1nL._SX319_BO1,204,203,200_.jpg"
+      },
+      "Book2": {
+        "Title": "Fierce Invalids Home From Hot Climates",
+        "Author": "Tom Robbins",
+        "Quote": "There's certain books that I've been in love with for years that I'd love to bring to life, it's a great, great book.",
+        "BookLink": "https://www.amazon.com/gp/product/055337933X/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=055337933X&linkId=2c9fdf1206c0cc59a6653588ed9140d1",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51nkN1x7vSL._SX329_BO1,204,203,200_.jpg"
+      }
+    }
   },
 
   {
     "Name": "Emma Watson",
     "Born": "1990-04-15",
-    "Picture": "emmawatson.jpg"
+    "Picture": "emmawatson.jpg",
+    "Description": "Emma Watson is best known for playing the character of Hermione Granger, one of Harry Potter's best friends in the 'Harry Potter' film franchise.",
+    "Books": {
+      "Book1": {
+        "Title": "How to Be a Woman",
+        "Author": "Caitlin Moran",
+        "Quote": "I read it on a plane from London to New York and I laughed out loud and cried so much I think the whole of my cabin, airline staff included, thought I was losing my mind.",
+        "BookLink": "https://www.amazon.com/gp/product/B00DO8VYQO/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00DO8VYQO&linkId=dff570364923d0a3687fb1f934d74c32",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51Bexu8fMhL._SX316_BO1,204,203,200_.jpg"
+      },
+      "Book2": {
+        "Title": "Women Who Run With Wolves",
+        "Author": "Clarissa Pinkola Estes",
+        "Quote": "A way for women to reconnect to the Wild Woman all women have within themselves, but have lost.",
+        "BookLink": "https://www.amazon.com/gp/product/0345409876/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0345409876&linkId=3b467366d220ce6fd032953dc983719b",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51af3Vrl94L._SX298_BO1,204,203,200_.jpg"
+      }
+    }
   },
 
   {
     "Name": "Leonardo DiCaprio",
     "Born": "1974-11-11",
-    "Picture": "leonardodicaprio.jpg"
-  },
-
-  {
-    "Name": "Venus",
-    "Born": 1995
-  },
-
-  {
-    "Name": "Britney",
-    "Born": 1995
-  },
-
-  {
-    "Name": "Ariana",
-    "Born": 1995
-  },
-
-  {
-    "Name": "Ronaldo",
-    "Born": 1995
-  },
-
-  {
-    "Name": "Mohammed",
-    "Born": 1995
-  },
-
-  {
-    "Name": "Boby",
-    "Born": 1995
-  },
-
-  {
-    "Name": "Olof",
-    "Born": 1995
-  },
-
-  {
-    "Name": "Nils",
-    "Born": 1995
-  },
-
-  {
-    "Name": "Sandra",
-    "Born": 1995
-  },
-
-  {
-    "Name": "Sofia",
-    "Born": 1995
-  },
-
-  {
-    "Name": "Emma",
-    "Born": 1995
+    "Picture": "leonardodicaprio.jpg",
+    "Description": "Oscar-winning American actor Leonardo DiCaprio has starred in such features as 'Titanic,' 'The Aviator,' 'Blood Diamond' and 'The Wolf of Wall Street.'",
+    "Books": {
+      "Book1": {
+        "Title": "The Great Gatsby",
+        "Author": "F. Scott Fitzgerals",
+        "Quote": "I like the idea of a man who came from absolutely nothing, who created himself solely from his own imagination.",
+        "BookLink": "https://www.amazon.com/gp/product/0743273567/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0743273567&linkId=27132d8c8a4cacd8b4ee841b2f2caf5a",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51khWutZqCL._SX325_BO1,204,203,200_.jpg"
+      },
+      "Book2": {
+        "Title": "This Changes Everything",
+        "Author": "Naomi Klein",
+        "Quote": "Ultimately we’ve locked ourselves, through capitalism, into an addiction to oil that’s incredibly hard to reverse. I’m making a documentary about this.",
+        "BookLink": "https://www.amazon.com/gp/product/1451697392/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1451697392&linkId=d5fb616c72a62b2e1060fa38e3923b00",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51candKimoL._SX326_BO1,204,203,200_.jpg"
+      }
+    }
   }
+
 ]

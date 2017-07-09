@@ -108,9 +108,9 @@ class App extends React.Component {
             <h2>{items.Title}</h2>
             <p>{`By ${items.Author}`}</p>
             <p><span>{`Quote from ${this.state.modal.Name} - `}</span>{items.Quote}</p>
-            <button><a target="_new" href="https://www.amazon.com/Ultimate-Hitchhikers-Guide-Galaxy/dp/0345453743/ref=sr_1_2?s=books&ie=UTF8&qid=1499507168&sr=1-2&keywords=the+hitchhiker%27s+guide+to+the+galaxy+book">View Details</a></button>
+            <button><a target="_new" href={items.BookLink}>View Details</a></button>
           </div>
-          <a target="_new" href="https://www.amazon.com/Ultimate-Hitchhikers-Guide-Galaxy/dp/0345453743/ref=sr_1_2?s=books&ie=UTF8&qid=1499507168&sr=1-2&keywords=the+hitchhiker%27s+guide+to+the+galaxy+book"><img src={items.BookCover} alt={items.Author} height="200px"></img></a>
+          <a target="_new" href={items.BookLink}><img src={items.BookCover} alt={items.Author} height="200px"></img></a>
         </div>
         )
     });
