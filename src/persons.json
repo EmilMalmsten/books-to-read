@@ -1,0 +1,125 @@
+[
+  {
+    "Name": "Elon Musk",
+    "Born": "1971-06-28",
+    "Picture": "elonmusk.jpg",
+    "Description": "Elon Musk is a computer programmer, designer of rockets and electric cars, and entrepreneur who founded or co-founded PayPal, SpaceX and Tesla Motors.",
+    "Books": {
+      "Book1": {
+        "Title": "The Hitchhiker’s Guide to the Galaxy",
+        "Author": "Douglas Adams",
+        "Quote": "If you can properly phrase the question, then the answer is the easy part. So, to the degree that we can better understand the universe, then we can better know what questions to ask",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/513chCN-jmL._SX347_BO1,204,203,200_.jpg"
+      },
+      "Book2": {
+        "Title": "Zero to One",
+        "Author": "Peter Thiel",
+        "Quote": "Peter Thiel has built multiple breakthrough companies, and Zero to One shows how.",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/412hq8iLwKL._SX317_BO1,204,203,200_.jpg"
+      }
+    }
+  },
+
+  {
+    "Name": "Richard Branson",
+    "Born": "1950-07-18",
+    "Picture": "richardbranson.jpg"
+  },
+
+  {
+    "Name": "Bill Gates",
+    "Born": "1955-10-28",
+    "Picture": "billgates.jpg"
+  },
+
+  {
+    "Name": "Donald Trump",
+    "Born": "1946-06-14",
+    "Picture": "donaldtrump.jpg"
+  },
+
+  {
+    "Name": "Oprah Winfrey",
+    "Born": "1954-01-29",
+    "Picture": "oprahwinfrey.jpg"
+  },
+
+  {
+    "Name": "Ellen DeGeneres",
+    "Born": "1958-01-26",
+    "Picture": "ellendegeneres.jpg"
+  },
+
+  {
+    "Name": "Johny Depp",
+    "Born": "1963-06-09",
+    "Picture": "johnydepp.jpg"
+  },
+
+  {
+    "Name": "Emma Watson",
+    "Born": "1990-04-15",
+    "Picture": "emmawatson.jpg"
+  },
+
+  {
+    "Name": "Leonardo DiCaprio",
+    "Born": "1974-11-11",
+    "Picture": "leonardodicaprio.jpg"
+  },
+
+  {
+    "Name": "Venus",
+    "Born": 1995
+  },
+
+  {
+    "Name": "Britney",
+    "Born": 1995
+  },
+
+  {
+    "Name": "Ariana",
+    "Born": 1995
+  },
+
+  {
+    "Name": "Ronaldo",
+    "Born": 1995
+  },
+
+  {
+    "Name": "Mohammed",
+    "Born": 1995
+  },
+
+  {
+    "Name": "Boby",
+    "Born": 1995
+  },
+
+  {
+    "Name": "Olof",
+    "Born": 1995
+  },
+
+  {
+    "Name": "Nils",
+    "Born": 1995
+  },
+
+  {
+    "Name": "Sandra",
+    "Born": 1995
+  },
+
+  {
+    "Name": "Sofia",
+    "Born": 1995
+  },
+
+  {
+    "Name": "Emma",
+    "Born": 1995
+  }
+]

@@ -4,7 +4,13 @@ class Header extends React.Component {
   render() {
     return (
       <header>
-        <h1>Hello</h1>
+        <input
+          type="text"
+          placeholder={this.props.tagline}
+          ref={(input) => this.searchInput = input}
+          onChange={() => this.props.handleSearch(this.searchInput.value)}
+        >
+        </input>
       </header>
     )
   }

@@ -1,2 +1,260 @@
 // Import all partials
 @require './_*.styl'
+
+html,body
+  height 100%
+
+a
+  text-decoration: none
+  color white
+  &:focus
+    outline: none
+
+// ===========================================
+// HEADER STYLES
+// ===========================================
+
+Header
+  display flex
+  align-items center
+  justify-content center
+  background-image url('./images/header-image.png')
+  background-size cover
+  background-repeat no-repeat
+  color white
+  font-size 1.5em
+
+
+// Search styles
+
+input
+  border-top-style: none
+  border-left-style: none
+  border-right-style: none
+  border bottom 2px solid white
+  background-color rgba(0,0,0,0)
+  background-image url('./images/search-icon.png')
+  background-size 1em
+  background-repeat no-repeat
+  padding-left 1.5em
+  padding-bottom 0.4em
+  color white
+  margin 40px 0 40px 0
+  font-size 0.7em
+
+  &::placeholder
+    color white
+
+  &:focus
+    outline none
+
+  @media screen and (min-width: 601px)
+    font-size 1em
+
+// ===========================================
+// SEARCH RESULT STYLES
+// ===========================================
+
+.no-results
+  text-align center
+
+.contentBody
+  margin 0 auto
+  display flex
+  flex-direction row
+  justify-content center
+  width 100vw
+  flex-wrap wrap
+  margin-top 20px
+  -webkit-padding-start 0px
+  @media screen and (min-width: 601px)
+    width 80vw
+  @media screen and (min-width: 1025px)
+    width: 1000px;
+
+.content
+  height 200px
+  width 300px
+  flex-basis auto
+  margin 10px
+  list-style-type none
+  color white
+  background-size cover
+  background-repeat no-repeat
+
+  p
+    margin-left 25px
+
+  img
+    position absolute
+    height inherit
+    width inherit
+    z-index -1
+    object-fit cover
+    transition all 0.2s
+
+  &:hover
+    .person-name
+      opacity 0
+    .hover-title
+      opacity 1
+    cursor pointer
+    img
+      filter blur(3px)
+
+// content information styles
+.hover-title
+  text-align: center
+  margin-right 25px
+  opacity 0 //hide by default
+
+// ===========================================
+// MODAL STYLES
+// ===========================================
+
+.hidden
+  display none
+
+.active
+  display block
+
+.dark
+  background-color rgba(0,0,0,0.8)
+
+.light
+  background-color rgba(0,0,0,0.5)
+
+//Modal Background
+.modal
+  position fixed
+  z-index 1
+  left 0
+  top 0
+  width 100%
+  height 100%
+
+  &:hover
+    cursor pointer
+
+//The Modal Box
+.modal-content
+  background-color #fefefe
+  margin 0 auto
+  width 100%
+  height 100vh
+  @media screen and (min-width: 601px)
+    margin 5% auto
+    width 80%
+    height 80vh
+
+  @media screen and (min-width: 1025px)
+    margin 5% auto
+    width 1000px
+
+//The flex container
+.modal-container
+  width 100%
+  height 100%
+  overflow auto
+  &:hover
+    cursor default
+
+//Modal Header
+.modal-header
+  background-image url('./images/header-image.png')
+  display flex
+  align-items center
+  h1
+    color white
+    margin-left 20px
+  .modal-close
+    color closebutton
+    font-size 70px
+    font-weight bold
+    margin-left 20px
+    &:hover, &:focus
+      color white
+      cursor pointer
+
+//Person information
+.person-description
+  margin 20px
+  display flex
+  justify-content center
+  flex-wrap wrap
+  background-color bggray
+  color modalfont
+  border 1px solid border
+  border-radius 1%
+  img
+    height 200px
+    width 300px
+    object-fit cover
+    margin-top 20px
+    margin-bottom 20px
+  h2, h3, p
+    margin 20px
+  h3, p
+    font-size 0.9em
+  h3
+    text-align center
+  @media screen and (min-width: 601px)
+    h2, h3, p
+      width 400px
+
+//Book Recommendations
+.books-header
+  margin 0 20px 0 20px
+  background-color bggray
+  border 1px solid border
+  border-radius 1%
+  font-size 0.8em
+  display flex
+  align-items center
+  height 35px
+  h3
+    font-size 0.9em
+    color: modalfont
+    margin-left 15px
+
+.display-books
+  display flex
+  flex-wrap wrap
+  margin 0 20px 0 20px
+  justify-content center
+  border-left: 1px solid border
+  border-right 1px solid border
+  @media screen and (min-width: 1025px)
+    border-bottom 1px solid border
+    height 350px
+
+
+.book-item
+  display flex
+  justify-content: space-around;
+  flex-basis 100%
+  margin: 20px 0 20px 0
+  img
+    border 3px solid bggray
+    &:hover
+      border 3px solid modalfont
+  @media screen and (min-width: 1025px)
+    flex-basis 40%
+
+
+.book-description
+  font-size 0.7em
+  width 40%
+  h2
+    text-align left
+    font-size 1.2em
+  button
+    background-color #428bca
+    color white
+    border 0.5px solid #2376BB
+    border-radius 5%
+    padding 7px
+    &:hover
+      background-color #2376BB
+  span
+    font-weight bold
