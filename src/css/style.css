@@ -221,7 +221,7 @@ input {
   border-top-style: none;
   border-left-style: none;
   border-right-style: none;
-  border: bottom 2px solid #fff;
+  border-bottom: 2px solid #fff;
   background-color: rgba(0,0,0,0);
   background-image: url("./images/search-icon.png");
   background-size: 1em;
