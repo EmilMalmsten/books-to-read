@@ -211,11 +211,36 @@ Header {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background-image: url("./images/header-image.png");
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
   font-size: 1.5em;
+}
+.twitter-button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 7px;
+  background-color: #1da1f2;
+  border-style: none;
+  border-radius: 7px;
+  color: #fff;
+  font-size: 0.8em;
+  padding: 5px 5px 5px 30px;
+  background-image: url("./images/twitter.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.twitter-button:before {
+  content: 'Follow';
+}
+@media screen and (min-width: 1025px) {
+  .twitter-button:before {
+    content: 'Follow on twitter @BooksToRead';
+  }
+}
+.header-div {
+  background-image: url("./images/header-image.png");
 }
 input {
   border-top-style: none;
@@ -229,7 +254,7 @@ input {
   padding-left: 1.5em;
   padding-bottom: 0.4em;
   color: #fff;
-  margin: 40px 0 40px 0;
+  margin: 60px 0 40px 0;
   font-size: 0.7em;
 }
 input::-webkit-input-placeholder {
@@ -250,6 +275,7 @@ input:focus {
 @media screen and (min-width: 601px) {
   input {
     font-size: 1em;
+    margin: 40px;
   }
 }
 .no-results {

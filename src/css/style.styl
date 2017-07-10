@@ -18,13 +18,34 @@ Header
   display flex
   align-items center
   justify-content center
-  background-image url('./images/header-image.png')
   background-size cover
   background-repeat no-repeat
   color white
   font-size 1.5em
 
+.twitter-button
+  position absolute
+  top 0
+  right 0
+  margin 7px
+  background-color #1DA1F2
+  border-style none
+  border-radius 7px
+  color white
+  font-size 0.8em
+  padding 5px 5px 5px 30px
+  background-image url('./images/twitter.png')
+  background-repeat no-repeat
+  background-size contain
+  &:before
+    content 'Follow'
+  @media screen and (min-width: 1025px)
+    &:before
+      content 'Follow on twitter @BooksToRead'
 
+
+.header-div
+  background-image url('./images/header-image.png')
 // Search styles
 
 input
@@ -39,7 +60,7 @@ input
   padding-left 1.5em
   padding-bottom 0.4em
   color white
-  margin 40px 0 40px 0
+  margin 60px 0 40px 0
   font-size 0.7em
 
   &::placeholder
@@ -50,6 +71,7 @@ input
 
   @media screen and (min-width: 601px)
     font-size 1em
+    margin 40px
 
 // ===========================================
 // SEARCH RESULT STYLES

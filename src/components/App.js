@@ -69,7 +69,6 @@ class App extends React.Component {
   lightBackground(){
     if(this.state.show === 'active'){
       this.setState({ background: 'light' });
-      //yo
     }
   }
 
