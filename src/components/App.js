@@ -130,6 +130,9 @@ class App extends React.Component {
           tagline={"Who's your role model?"}
           handleSearch={this.handleSearch}
         />
+
+        <div  onClick={ () => window.scrollTo(0, 0) } className="logo"></div>
+
         <ul className="contentBody">
           {list}
         </ul>
@@ -177,6 +180,7 @@ class App extends React.Component {
             </div>
           </div>
         </div>
+        <div className="madeby"><span className="credit">by Emil Malmsten</span></div>
       </div>
     )
   }

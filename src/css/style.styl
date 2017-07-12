@@ -73,6 +73,22 @@ input
     font-size 1em
     margin 40px
 
+//logo
+.logo
+  @media screen and (min-width: 1350px)
+    position fixed
+    background-image url('./images/bookstoread.png')
+    left 0px
+    top 170px
+    height 160px
+    width 180px
+    background-repeat no-repeat
+  @media screen and (min-width: 1500px)
+    left 50px
+  @media screen and (min-width: 1700px)
+    left 190px
+  &:hover
+    cursor pointer
 // ===========================================
 // SEARCH RESULT STYLES
 // ===========================================
@@ -280,3 +296,22 @@ input
       background-color #2376BB
   span
     font-weight bold
+
+// ===========================================
+// FOOTER STYLES
+// ===========================================
+
+.madeby
+  position fixed
+  bottom 0
+  left 0
+  width 100vw
+  height 40px
+  background-image url('./images/header-image.png')
+  color white
+
+.credit
+  position fixed
+  right 10px
+  bottom 10px
+  cursor pointer

@@ -278,6 +278,30 @@ input:focus {
     margin: 40px;
   }
 }
+@media screen and (min-width: 1350px) {
+  .logo {
+    position: fixed;
+    background-image: url("./images/bookstoread.png");
+    left: 0px;
+    top: 170px;
+    height: 160px;
+    width: 180px;
+    background-repeat: no-repeat;
+  }
+}
+@media screen and (min-width: 1500px) {
+  .logo {
+    left: 50px;
+  }
+}
+@media screen and (min-width: 1700px) {
+  .logo {
+    left: 190px;
+  }
+}
+.logo:hover {
+  cursor: pointer;
+}
 .no-results {
   text-align: center;
 }
@@ -546,4 +570,19 @@ input:focus {
 }
 .book-description span {
   font-weight: bold;
+}
+.madeby {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  height: 40px;
+  background-image: url("./images/header-image.png");
+  color: #fff;
+}
+.credit {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  cursor: pointer;
 }
