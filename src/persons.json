@@ -207,233 +207,71 @@
   },
 
   {
-    "Name": "Leonardo DiCaprio",
-    "Born": "1974-11-11",
-    "Picture": "leonardodicaprio.jpg",
-    "Description": "Oscar-winning American actor Leonardo DiCaprio has starred in such features as 'Titanic,' 'The Aviator,' 'Blood Diamond' and 'The Wolf of Wall Street.'",
+    "Name": "Nelson Mandela",
+    "Born": "",
+    "Picture": "nelsonmandela.jpg",
+    "Description": "Nelson Mandela became the first black president of South Africa in 1994, serving until 1999. A symbol of global peacemaking, he won the Nobel Peace Prize in 1993.",
     "Books": {
       "Book1": {
-        "Title": "The Great Gatsby",
-        "Author": "F. Scott Fitzgerals",
-        "Quote": "I like the idea of a man who came from absolutely nothing, who created himself solely from his own imagination.",
-        "BookLink": "https://www.amazon.com/gp/product/0743273567/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0743273567&linkId=27132d8c8a4cacd8b4ee841b2f2caf5a",
-        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51khWutZqCL._SX325_BO1,204,203,200_.jpg"
+        "Title": "Red Star Over China",
+        "Author": "Edgar Snow",
+        "Quote": "In Edgar Snow's brilliant Red Star Over China I saw that it was Mao's determination and non-traditional thinking that led him to victory.",
+        "BookLink": "https://www.amazon.com/gp/product/0802150934/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0802150934&linkId=e8937f40fd8c9f41ccc5efc9302624a0",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51H-1qz5r0L._SX319_BO1,204,203,200_.jpg"
       },
       "Book2": {
-        "Title": "This Changes Everything",
-        "Author": "Naomi Klein",
-        "Quote": "Ultimately we’ve locked ourselves, through capitalism, into an addiction to oil that’s incredibly hard to reverse. I’m making a documentary about this.",
-        "BookLink": "https://www.amazon.com/gp/product/1451697392/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1451697392&linkId=d5fb616c72a62b2e1060fa38e3923b00",
-        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51candKimoL._SX326_BO1,204,203,200_.jpg"
+        "Title": "The Grapes of Wrath",
+        "Author": "John Steinbeck",
+        "Quote": "I read many American novels, and recall especially John Steinbeck's The Graped of Wrath, in which I found many similarities between the plight of migrant workers in that novel and our own laborers and farmworkers",
+        "BookLink": "https://www.amazon.com/gp/product/0143039431/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143039431&linkId=8fffa77761fdb5c73850b506eb89d9a7",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/41s2Apn3AuL._SX323_BO1,204,203,200_.jpg"
       }
     }
   },
 
   {
-    "Name": "Leonardo DiCaprio",
-    "Born": "1974-11-11",
-    "Picture": "leonardodicaprio.jpg",
-    "Description": "Oscar-winning American actor Leonardo DiCaprio has starred in such features as 'Titanic,' 'The Aviator,' 'Blood Diamond' and 'The Wolf of Wall Street.'",
+    "Name": "Nicola Tesla",
+    "Born": "",
+    "Picture": "nicolatesla.jpg",
+    "Description": "Inventor Nikola Tesla contributed to the development of the alternating-current electrical system that's widely used today and discovered the rotating magnetic field (the basis of most AC machinery).",
     "Books": {
       "Book1": {
-        "Title": "The Great Gatsby",
-        "Author": "F. Scott Fitzgerals",
-        "Quote": "I like the idea of a man who came from absolutely nothing, who created himself solely from his own imagination.",
-        "BookLink": "https://www.amazon.com/gp/product/0743273567/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0743273567&linkId=27132d8c8a4cacd8b4ee841b2f2caf5a",
-        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51khWutZqCL._SX325_BO1,204,203,200_.jpg"
+        "Title": "Adventures of Huckleberry Finn",
+        "Author": "Mark Twain",
+        "Quote": "Mr. Twain likes to joke. As a child I was healed once by reading his books. When we met here and I told him about it, he was so touched that he cried. We became friends and he often came to my lab.",
+        "BookLink": "https://www.amazon.com/gp/product/0486280616/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0486280616&linkId=eef33ef9e5186a4d6d729c1bed1827f9",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51iUPRWPE6L._SX311_BO1,204,203,200_.jpg"
       },
       "Book2": {
-        "Title": "This Changes Everything",
-        "Author": "Naomi Klein",
-        "Quote": "Ultimately we’ve locked ourselves, through capitalism, into an addiction to oil that’s incredibly hard to reverse. I’m making a documentary about this.",
-        "BookLink": "https://www.amazon.com/gp/product/1451697392/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1451697392&linkId=d5fb616c72a62b2e1060fa38e3923b00",
-        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51candKimoL._SX326_BO1,204,203,200_.jpg"
+        "Title": "Faust",
+        "Author": "Goethe",
+        "Quote": "Goethe's Faust, my favorite book, I learned by heart in German as a student, and now can recite it all. I held my inventions for years 'in my head' and only then I realized them",
+        "BookLink": "https://www.amazon.com/gp/product/1503262146/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1503262146&linkId=01d2f4ec324062fec578e0d02c2fcc91",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/413r5x75zfL._SX331_BO1,204,203,200_.jpg"
       }
     }
   },
 
   {
-    "Name": "Leonardo DiCaprio",
-    "Born": "1974-11-11",
-    "Picture": "leonardodicaprio.jpg",
-    "Description": "Oscar-winning American actor Leonardo DiCaprio has starred in such features as 'Titanic,' 'The Aviator,' 'Blood Diamond' and 'The Wolf of Wall Street.'",
+    "Name": "Arnold Schwarzenegger",
+    "Born": "1947-07-30",
+    "Picture": "arnoldschwarzenegger.jpg",
+    "Description": "Arnold Schwarzenegger first gained fame as a body builder, using that as a launching point to become a huge Hollywood star and, later, the governor of California.",
     "Books": {
       "Book1": {
-        "Title": "The Great Gatsby",
-        "Author": "F. Scott Fitzgerals",
-        "Quote": "I like the idea of a man who came from absolutely nothing, who created himself solely from his own imagination.",
-        "BookLink": "https://www.amazon.com/gp/product/0743273567/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0743273567&linkId=27132d8c8a4cacd8b4ee841b2f2caf5a",
-        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51khWutZqCL._SX325_BO1,204,203,200_.jpg"
+        "Title": "The Churchhill Factor: How One Man Made History",
+        "Author": "Boris Johnson",
+        "Quote": "There’s one book that I have given away to many people, which is a book about Winston Churchill by Boris Johnson, the mayer of London. Boris is really interesting character, very talented guy and people servant, and at the same time he’s an extraordinary writer.",
+        "BookLink": "https://www.amazon.com/gp/product/1594633983/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1594633983&linkId=75ba0023b696e76d2e4a5f1a26cfe153",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51whvk355vL._SX319_BO1,204,203,200_.jpg"
       },
       "Book2": {
-        "Title": "This Changes Everything",
-        "Author": "Naomi Klein",
-        "Quote": "Ultimately we’ve locked ourselves, through capitalism, into an addiction to oil that’s incredibly hard to reverse. I’m making a documentary about this.",
-        "BookLink": "https://www.amazon.com/gp/product/1451697392/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1451697392&linkId=d5fb616c72a62b2e1060fa38e3923b00",
-        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51candKimoL._SX326_BO1,204,203,200_.jpg"
-      }
-    }
-  },
-
-  {
-    "Name": "Leonardo DiCaprio",
-    "Born": "1974-11-11",
-    "Picture": "leonardodicaprio.jpg",
-    "Description": "Oscar-winning American actor Leonardo DiCaprio has starred in such features as 'Titanic,' 'The Aviator,' 'Blood Diamond' and 'The Wolf of Wall Street.'",
-    "Books": {
-      "Book1": {
-        "Title": "The Great Gatsby",
-        "Author": "F. Scott Fitzgerals",
-        "Quote": "I like the idea of a man who came from absolutely nothing, who created himself solely from his own imagination.",
-        "BookLink": "https://www.amazon.com/gp/product/0743273567/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0743273567&linkId=27132d8c8a4cacd8b4ee841b2f2caf5a",
-        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51khWutZqCL._SX325_BO1,204,203,200_.jpg"
-      },
-      "Book2": {
-        "Title": "This Changes Everything",
-        "Author": "Naomi Klein",
-        "Quote": "Ultimately we’ve locked ourselves, through capitalism, into an addiction to oil that’s incredibly hard to reverse. I’m making a documentary about this.",
-        "BookLink": "https://www.amazon.com/gp/product/1451697392/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1451697392&linkId=d5fb616c72a62b2e1060fa38e3923b00",
-        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51candKimoL._SX326_BO1,204,203,200_.jpg"
-      }
-    }
-  },
-
-  {
-    "Name": "Leonardo DiCaprio",
-    "Born": "1974-11-11",
-    "Picture": "leonardodicaprio.jpg",
-    "Description": "Oscar-winning American actor Leonardo DiCaprio has starred in such features as 'Titanic,' 'The Aviator,' 'Blood Diamond' and 'The Wolf of Wall Street.'",
-    "Books": {
-      "Book1": {
-        "Title": "The Great Gatsby",
-        "Author": "F. Scott Fitzgerals",
-        "Quote": "I like the idea of a man who came from absolutely nothing, who created himself solely from his own imagination.",
-        "BookLink": "https://www.amazon.com/gp/product/0743273567/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0743273567&linkId=27132d8c8a4cacd8b4ee841b2f2caf5a",
-        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51khWutZqCL._SX325_BO1,204,203,200_.jpg"
-      },
-      "Book2": {
-        "Title": "This Changes Everything",
-        "Author": "Naomi Klein",
-        "Quote": "Ultimately we’ve locked ourselves, through capitalism, into an addiction to oil that’s incredibly hard to reverse. I’m making a documentary about this.",
-        "BookLink": "https://www.amazon.com/gp/product/1451697392/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1451697392&linkId=d5fb616c72a62b2e1060fa38e3923b00",
-        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51candKimoL._SX326_BO1,204,203,200_.jpg"
-      }
-    }
-  },
-
-  {
-    "Name": "Leonardo DiCaprio",
-    "Born": "1974-11-11",
-    "Picture": "leonardodicaprio.jpg",
-    "Description": "Oscar-winning American actor Leonardo DiCaprio has starred in such features as 'Titanic,' 'The Aviator,' 'Blood Diamond' and 'The Wolf of Wall Street.'",
-    "Books": {
-      "Book1": {
-        "Title": "The Great Gatsby",
-        "Author": "F. Scott Fitzgerals",
-        "Quote": "I like the idea of a man who came from absolutely nothing, who created himself solely from his own imagination.",
-        "BookLink": "https://www.amazon.com/gp/product/0743273567/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0743273567&linkId=27132d8c8a4cacd8b4ee841b2f2caf5a",
-        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51khWutZqCL._SX325_BO1,204,203,200_.jpg"
-      },
-      "Book2": {
-        "Title": "This Changes Everything",
-        "Author": "Naomi Klein",
-        "Quote": "Ultimately we’ve locked ourselves, through capitalism, into an addiction to oil that’s incredibly hard to reverse. I’m making a documentary about this.",
-        "BookLink": "https://www.amazon.com/gp/product/1451697392/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1451697392&linkId=d5fb616c72a62b2e1060fa38e3923b00",
-        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51candKimoL._SX326_BO1,204,203,200_.jpg"
-      }
-    }
-  },
-
-  {
-    "Name": "Leonardo DiCaprio",
-    "Born": "1974-11-11",
-    "Picture": "leonardodicaprio.jpg",
-    "Description": "Oscar-winning American actor Leonardo DiCaprio has starred in such features as 'Titanic,' 'The Aviator,' 'Blood Diamond' and 'The Wolf of Wall Street.'",
-    "Books": {
-      "Book1": {
-        "Title": "The Great Gatsby",
-        "Author": "F. Scott Fitzgerals",
-        "Quote": "I like the idea of a man who came from absolutely nothing, who created himself solely from his own imagination.",
-        "BookLink": "https://www.amazon.com/gp/product/0743273567/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0743273567&linkId=27132d8c8a4cacd8b4ee841b2f2caf5a",
-        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51khWutZqCL._SX325_BO1,204,203,200_.jpg"
-      },
-      "Book2": {
-        "Title": "This Changes Everything",
-        "Author": "Naomi Klein",
-        "Quote": "Ultimately we’ve locked ourselves, through capitalism, into an addiction to oil that’s incredibly hard to reverse. I’m making a documentary about this.",
-        "BookLink": "https://www.amazon.com/gp/product/1451697392/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1451697392&linkId=d5fb616c72a62b2e1060fa38e3923b00",
-        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51candKimoL._SX326_BO1,204,203,200_.jpg"
-      }
-    }
-  },
-
-  {
-    "Name": "Leonardo DiCaprio",
-    "Born": "1974-11-11",
-    "Picture": "leonardodicaprio.jpg",
-    "Description": "Oscar-winning American actor Leonardo DiCaprio has starred in such features as 'Titanic,' 'The Aviator,' 'Blood Diamond' and 'The Wolf of Wall Street.'",
-    "Books": {
-      "Book1": {
-        "Title": "The Great Gatsby",
-        "Author": "F. Scott Fitzgerals",
-        "Quote": "I like the idea of a man who came from absolutely nothing, who created himself solely from his own imagination.",
-        "BookLink": "https://www.amazon.com/gp/product/0743273567/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0743273567&linkId=27132d8c8a4cacd8b4ee841b2f2caf5a",
-        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51khWutZqCL._SX325_BO1,204,203,200_.jpg"
-      },
-      "Book2": {
-        "Title": "This Changes Everything",
-        "Author": "Naomi Klein",
-        "Quote": "Ultimately we’ve locked ourselves, through capitalism, into an addiction to oil that’s incredibly hard to reverse. I’m making a documentary about this.",
-        "BookLink": "https://www.amazon.com/gp/product/1451697392/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1451697392&linkId=d5fb616c72a62b2e1060fa38e3923b00",
-        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51candKimoL._SX326_BO1,204,203,200_.jpg"
-      }
-    }
-  },
-
-  {
-    "Name": "Leonardo DiCaprio",
-    "Born": "1974-11-11",
-    "Picture": "leonardodicaprio.jpg",
-    "Description": "Oscar-winning American actor Leonardo DiCaprio has starred in such features as 'Titanic,' 'The Aviator,' 'Blood Diamond' and 'The Wolf of Wall Street.'",
-    "Books": {
-      "Book1": {
-        "Title": "The Great Gatsby",
-        "Author": "F. Scott Fitzgerals",
-        "Quote": "I like the idea of a man who came from absolutely nothing, who created himself solely from his own imagination.",
-        "BookLink": "https://www.amazon.com/gp/product/0743273567/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0743273567&linkId=27132d8c8a4cacd8b4ee841b2f2caf5a",
-        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51khWutZqCL._SX325_BO1,204,203,200_.jpg"
-      },
-      "Book2": {
-        "Title": "This Changes Everything",
-        "Author": "Naomi Klein",
-        "Quote": "Ultimately we’ve locked ourselves, through capitalism, into an addiction to oil that’s incredibly hard to reverse. I’m making a documentary about this.",
-        "BookLink": "https://www.amazon.com/gp/product/1451697392/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1451697392&linkId=d5fb616c72a62b2e1060fa38e3923b00",
-        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51candKimoL._SX326_BO1,204,203,200_.jpg"
-      }
-    }
-  },
-
-  {
-    "Name": "Leonardo DiCaprio",
-    "Born": "1974-11-11",
-    "Picture": "leonardodicaprio.jpg",
-    "Description": "Oscar-winning American actor Leonardo DiCaprio has starred in such features as 'Titanic,' 'The Aviator,' 'Blood Diamond' and 'The Wolf of Wall Street.'",
-    "Books": {
-      "Book1": {
-        "Title": "The Great Gatsby",
-        "Author": "F. Scott Fitzgerals",
-        "Quote": "I like the idea of a man who came from absolutely nothing, who created himself solely from his own imagination.",
-        "BookLink": "https://www.amazon.com/gp/product/0743273567/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0743273567&linkId=27132d8c8a4cacd8b4ee841b2f2caf5a",
-        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51khWutZqCL._SX325_BO1,204,203,200_.jpg"
-      },
-      "Book2": {
-        "Title": "This Changes Everything",
-        "Author": "Naomi Klein",
-        "Quote": "Ultimately we’ve locked ourselves, through capitalism, into an addiction to oil that’s incredibly hard to reverse. I’m making a documentary about this.",
-        "BookLink": "https://www.amazon.com/gp/product/1451697392/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1451697392&linkId=d5fb616c72a62b2e1060fa38e3923b00",
-        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51candKimoL._SX326_BO1,204,203,200_.jpg"
+        "Title": "Steve Jobs",
+        "Author": "Walter Isaacson",
+        "Quote": "I absolutely love to hear stories about people who have tremendous vision; and when you talk about vision, Steve Jobs has to be in the conversation. He was such a revolutionary.",
+        "BookLink": "https://www.amazon.com/gp/product/1501127624/ref=as_li_tl?ie=UTF8&tag=ookoead-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1501127624&linkId=7a35684a5468119b252be7834a1ccf80",
+        "BookCover": "https://images-na.ssl-images-amazon.com/images/I/51TfXkWjFOL._SX329_BO1,204,203,200_.jpg"
       }
     }
   }
-
 ]
